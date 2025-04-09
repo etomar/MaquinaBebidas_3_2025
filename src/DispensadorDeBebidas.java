@@ -6,9 +6,11 @@
 /**
  *
  * @author Richard Rebull
+ * Fecha:09/04/2025
+ * Descripcion: Hacer la clase Dispensador de bebidas
  */
 public class DispensadorDeBebidas {
-    private int botes; // Número actual de botes
+    private int botes; 
 
     public DispensadorDeBebidas(int i) {
         if (i >= 0)
